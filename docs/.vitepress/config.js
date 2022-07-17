@@ -58,6 +58,7 @@ module.exports = {
     title: '闲云',
     description: '个人博客',
     // lastUpdated: true,
+	base: '/',
     themeConfig: {
         nav: nav(),
         sidebar: {
