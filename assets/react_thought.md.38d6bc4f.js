@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,b as o}from"./app.5cb8d94b.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"react/thought.md","lastUpdated":1658242779000}'),s={name:"react/thought.md"},r=o("p",null,"感想",-1),c=[r];function n(_,d,p,h,i,l){return a(),e("div",null,c)}const f=t(s,[["render",n]]);export{m as __pageData,f as default};
